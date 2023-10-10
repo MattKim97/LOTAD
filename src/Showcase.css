@@ -1,0 +1,16 @@
+.first {
+  background-color: green;
+  color: white;
+}
+
+.second {
+  background-color: white;
+  color: green;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
